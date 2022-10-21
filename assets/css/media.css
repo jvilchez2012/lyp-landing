@@ -1,0 +1,192 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    
+    .side-nav {
+        width: 15%;
+        padding: 0 0 0 0;
+    }
+    .content-box {
+        width: 90%;
+    }
+    .nMenu-icon {
+        font-size: 13px;
+    }
+    .nav-menu ul li a .nMenu-icon i {
+        padding: 8px 9px;
+    }
+    .nav-menu ul li a {
+        font-size: 11px;
+    }
+    /*banner*/
+    .banner-logo img {
+        width: 90%;
+    }
+    .banner-logo{
+        text-align: center;
+    }
+    .banner-content-plate h2 {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .banner-content-plate {
+        text-align: center;
+    }
+    /* banner 2 */
+    section#banner2,section#banner3,section#banner4,section#banner5 {
+        padding-top: 40px;
+    }
+    .banner-2-content-plate h2 {
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+    }
+    /* form section*/ 
+    section.form-section {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .form-plate h2 {
+        margin-bottom: 20px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .form-plate h6 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .form-plate {
+        text-align: center;
+    }
+    .svg-bg{
+        display: none;
+    }
+    section#banner5,section#banner4,section#banner2 {
+        padding: 40px 0;
+    }
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .side-nav {
+        width: 15%;
+        padding: 0 0 0 0;
+    }
+    .content-box {
+        width: 90%;
+    }
+    .nMenu-icon {
+        font-size: 13px;
+    }
+    .nav-menu ul li a .nMenu-icon i {
+        padding: 8px 9px;
+    }
+    .nav-menu ul li a {
+        font-size: 11px;
+    }
+    /*banner*/
+    .banner-logo img {
+        width: 90%;
+    }
+    .banner-logo{
+        text-align: center;
+    }
+    .banner-content-plate h2 {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .banner-content-plate {
+        text-align: center;
+    }
+    /* banner 2 */
+    section#banner2,section#banner3,section#banner4,section#banner5 {
+        padding-top: 40px;
+    }
+    .banner-2-content-plate h2 {
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+    }
+    /* form section*/ 
+    section.form-section {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .form-plate h2 {
+        margin-bottom: 20px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .form-plate h6 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .form-plate {
+        text-align: center;
+    }
+    .svg-bg{
+        display: none;
+    }
+    section#banner5,section#banner4,section#banner2 {
+        padding: 40px 0;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .side-nav {
+        width: 13%;
+        padding: 0 10px 0 0;
+    }
+    /*banner*/
+    .banner-content-plate h2 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .svg-bg{
+        display: none;
+    }
+    .banner-2-content-plate h2 {
+        font-size: 18px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .side-nav {
+        width: 12%;
+    }
+    .svg-bg-1 {
+        bottom: -98px;
+        right: 0;
+        width: 359px;
+    }
+    .svg-bg-2 {
+        bottom: -118px;
+        right: 0;
+        width: 401px;
+    }
+    .svg-bg-3 {
+        right: 55px;
+        top: 70px;
+        width: 258px;
+    }
+    .svg-bg-4 {
+        right: 0;
+        bottom: -76px;
+        width: 488px;
+    }
+    .svg-bg-5 {
+        right: 44px;
+        top: -95px;
+        width: 367px;
+    }
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
