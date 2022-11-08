@@ -1,2 +1,1 @@
-# lyp-landing
-LYP Landing
+# Landing page for LoyalPoints a multiverse of loyalty programs
